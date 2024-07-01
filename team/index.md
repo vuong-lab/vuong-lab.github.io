@@ -52,7 +52,7 @@ The Vuong lab is currently recruiting scientists to fill different roles within 
 
 We are recruiting motivated, creative, and forward-thinking research technicians to join our group. Research technicians are a core component of our laboratory, and this opportunity offers substantial opportunity for personal, professional, and scientific growth and mentorship.
 
-{% include link.html type="external" link="https://hr.myu.umn.edu/jobs/ext/346231" text="Apply Now" icon="" style="button" %}
+{% include button.html type="external" link="https://hr.myu.umn.edu/jobs/ext/346231" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 #### Graduate Students
@@ -65,7 +65,7 @@ Our lab welcomes interested graduate students to join us in the summer/fall of 2
 
 Please also include your CV summarizing past academic, professional and research experience along with the names of two potential references.
 
-{% include link.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a PhD position&body=Include CV, cover letter and 2 references" text="Contact Dr. Vuong" icon="" style="button" %}
+{% include button.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a PhD position&body=Include CV, cover letter and 2 references" text="Contact Dr. Vuong" icon="" style="button" %}
 {:.center}
 
 #### Postdoctoral Fellows
@@ -80,5 +80,5 @@ If interested, please email Dr. Vuong. Attached to this email, please include a 
 
 Please also include your CV summarizing past academic, professional and research experience along with the names of three potential references.
 
-{% include link.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a Post-Doc position&body=Include CV, cover letter and 3 references" text="Contact Dr. Vuong" icon="" style="button" %}
+{% include button.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a Post-Doc position&body=Include CV, cover letter and 3 references" text="Contact Dr. Vuong" icon="" style="button" %}
 {:.center}
