@@ -4,11 +4,11 @@ nav:
   order: 7
   tooltip: Email, address, and location
 ---
-
-# <i class="fas fa-envelope"></i>Contact
+{% include section.html size=wide %}
+# <i class="fas fa-envelope"></i>&nbsp;&nbsp;Contact
 
 {%
-  include link.html
+  include button.html
   type="email"
   icon=""
   text="hevuong@umn.edu"
@@ -17,7 +17,7 @@ nav:
   style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="phone"
   icon=""
   text="(612) 626-5719" 
@@ -26,7 +26,7 @@ nav:
   style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="address"
   icon=""
   text="Google Maps"
