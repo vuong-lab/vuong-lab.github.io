@@ -1,77 +1,62 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 7
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# <i class="fas fa-envelope"></i>Contact
 
 {%
-  include button.html
+  include link.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  icon=""
+  text="hevuong@umn.edu"
+  tooltip=""
+  link="hevuong@umn.edu"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  icon=""
+  text="(612) 626-5719" 
+  tooltip=""
+  link="+1-612-626-5719"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  icon=""
+  text="Google Maps"
+  tooltip="Lab location on Google Maps for easy navigation"
+  link="https://goo.gl/maps/LbPae5VfSGAkane56"
+  style="button"
 %}
+{:.center}
 
 {% include section.html %}
 
-{% capture col1 %}
+# <i class="fas fa-mail-bulk"></i>Mailing Address
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
+Phillips-Wangensteen Building, Rm 13-121  
+516 Delaware St SE  
+Minneapolis, MN 55455
+{:.center}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/east.jpg"
+  caption="U of MN East Bank"
+%}
 {% endcapture %}
-
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/west.jpg"
+  caption="U of MN West Bank"
+%}
 {% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include two-col.html col1=col1 col2=col2 %}
