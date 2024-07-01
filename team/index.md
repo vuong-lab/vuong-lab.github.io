@@ -4,12 +4,12 @@ nav:
   order: 3
   tooltip: Our team
 ---
-
-# <i class="fas fa-users"></i>Team
+{% include section.html size=full background="images/banner.jpeg" %}
+# <i class="fa-solid fa-users"></i>&nbsp;&nbsp;Team
 
 {% include section.html %}
 
-### Principal Investigator 
+<h2 style="text-align: center;">Principal Investigator</h2> 
 
 {%
   include list.html
@@ -20,7 +20,7 @@ nav:
 
 {% include section.html %}
 
-### Current members
+<h2 style="text-align: center;">Current members</h2>
 
 {%
   include list.html
@@ -28,11 +28,11 @@ nav:
   component="portrait"
   filters="group: current"
 %}
-{:.center}
+
 
 {% include section.html %}
 
-### Lab alumni
+<h2 style="text-align: center;">Lab alumni</h2>
 
 {%
   include list.html
@@ -40,7 +40,7 @@ nav:
   component="portrait"
   filters="group: past"
 %}
-{:.center}
+
 
 {% include section.html %}
 
