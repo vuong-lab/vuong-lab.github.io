@@ -20,7 +20,7 @@ undergrad:
 
 gnoto:
   icon: fa-solid fa-mouse
-  text: Gnotobiotic manager
+  description: Gnotobiotic manager
 
 mascot:
   icon: fa-solid fa-dog
