@@ -6,6 +6,7 @@ role: phd
 group: current
 aliases:
   - Chloe Puglisi
+  - Chloe H Puglisi
 links:
   email: pugli042@umn.edu
 ---
