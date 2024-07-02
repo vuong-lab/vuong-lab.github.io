@@ -22,6 +22,10 @@ gnoto:
   icon: fa-solid fa-mouse
   description: Gnotobiotic manager
 
+tech:
+  icon: fa-solid fa-search
+  description: Research Assistant
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
