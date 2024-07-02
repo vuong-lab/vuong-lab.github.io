@@ -87,6 +87,6 @@ Our work is made possible by funding from the following organizations.
 {:.center}
 
 {% include funder.html image="images/nichd.png" %}
-{% include funder.html image="images/sloan.png" %}\\
+{% include funder.html image="images/sloan.png" %}
 {% include funder.html image="images/pewcc.png" %}
 
