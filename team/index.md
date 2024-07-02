@@ -4,7 +4,6 @@ nav:
   order: 3
   tooltip: Our team
 ---
-{% include section.html size=full background="images/banner.jpeg" %}
 # <i class="fa-solid fa-users"></i>&nbsp;&nbsp;Team
 
 {% include section.html %}
