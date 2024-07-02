@@ -16,7 +16,7 @@ nav:
 Coming soon!
 {:.center}
 
-{% include list.html component="card" data="resources" filters="group: dataset" %}
+{% include list.html component="card" data="projects" filters="group: dataset" %}
 
 {% include section.html %}
 
@@ -24,10 +24,10 @@ Coming soon!
 
 Coming soon!
 {:.center}
-{% include list.html component="card" data="resources" filters="group: protocol" %}
+{% include list.html component="card" data="projects" filters="group: protocol" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="resources" filters="group: more" style="small" %}
+{% include list.html component="card" data="projects" filters="group: more" style="small" %}
