@@ -3,27 +3,23 @@
 # team member roles
 
 pi:
-  icon: fas fa-microscope
-  text: Principal Investigator
+  icon: fa-solid fa-microscope
+  description: Principal Investigator
 
 postdoc:
-  icon: fas fa-glasses
-  text: Postdoctoral Researcher
+  icon: fa-solid fa-glasses
+  description: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
-  text: PhD Student
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
 
 undergrad:
-  icon: fas fa-user-graduate
-  text: Undergraduate Student
+  icon: fa-solid fa-user-graduate
+  description: Undergraduate Student
 
-tech:
-  icon: fas fa-search
-  text: Research Assistant
-  
 gnoto:
-  icon: fas fa-mouse
+  icon: fa-solid fa-mouse
   text: Gnotobiotic manager
 
 mascot:
