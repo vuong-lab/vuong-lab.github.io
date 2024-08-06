@@ -1,1 +1,1 @@
-Sitemap: http://vuong.science/update-labsite/sitemap.xml
+Sitemap: https://vuong.science/sitemap.xml
