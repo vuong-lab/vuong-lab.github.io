@@ -12,7 +12,7 @@ We use a longitudinal approach to track and investigate direct and long-term eff
 
 {% include section.html %}
 
-# <i class="fas fa-bullhorn"></i>Lab News
+# <i class="fas fa-bullhorn"></i>   Lab News
 
 {% include search-info.html %}
 
