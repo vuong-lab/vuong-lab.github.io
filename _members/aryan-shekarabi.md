@@ -3,7 +3,7 @@ name: Aryan Shekarabi
 image: images/aryan.jpg
 description:
 role: phd
-group: current
+group: past
 aliases:
   - Aryan Shekarabi
 links:
