@@ -12,7 +12,6 @@
   publisher: The FEBS Journal
   date: '2025-02-23'
   link: https://doi.org/g89wtt
-  image: images/febs.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.mib.2024.102494
