@@ -3,7 +3,7 @@ name: Modi Aldhafeeri
 image: images/modi.jpg
 description:
 role: undergrad
-group: current
+group: past
 aliases:
   - Modi Aldhafeeri
 links:
