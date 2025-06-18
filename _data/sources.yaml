@@ -1,3 +1,9 @@
+- id: doi:10.1038/s41564-025-02022-7
+  image: images/naturemicro.svg
+
+- id: doi:10.1016/j.isci.2025.112059
+  image: images/iscience.png
+
 - id: doi:10.1111/febs.70031
   image: images/febs1.png
 
