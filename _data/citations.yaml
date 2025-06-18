@@ -1,5 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41564-025-02022-7
+  title: Murine maternal microbiome modifies adverse effects of protein undernutrition
+    on offspring neurobehaviour
+  authors:
+  - "Elena J. Coley-O\u2019Rourke"
+  - Gregory R. Lum
+  - Geoffrey N. Pronovost
+  - Lewis W. Yu
+  - "Ezgi \xD6zcan"
+  - Kristie B. Yu
+  - Janet McDermott
+  - Anna Chakhoyan
+  - Eliza Goldman
+  - Helen E. Vuong
+  - Jorge Paramo
+  - Sydney McCune
+  - Kristija Sejane
+  - Simone Renwick
+  - Lars Bode
+  - Alison Chu
+  - Kara L. Calkins
+  - Elaine Y. Hsiao
+  publisher: Nature Microbiology
+  date: '2025-06-13'
+  link: https://doi.org/g9qnt2
+  image: images/naturemicro.svg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.isci.2025.112059
+  title: Select microbial metabolites in the small intestinal lumen regulate vagal
+    activity via receptor-mediated signaling
+  authors:
+  - Kelly G. Jameson
+  - Sabeen A. Kazmi
+  - Takahiro E. Ohara
+  - Celine Son
+  - Kristie B. Yu
+  - Donya Mazdeyasnan
+  - Emma Leshan
+  - Helen E. Vuong
+  - Jorge Paramo
+  - Arlene Lopez-Romero
+  - Long Yang
+  - Felix E. Schweizer
+  - Elaine Y. Hsiao
+  publisher: iScience
+  date: '2025-03-01'
+  link: https://doi.org/g9qnt3
+  image: images/iscience.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/febs.70031
   title: Interactions of the maternal microbiome with diet, stress, and infection
     influence fetal development
