@@ -1,0 +1,20 @@
+- name: Julie Ross Recognition Event
+  group: recognition
+  image: images/events/julieross.jpg
+  description: Helen received the Innovator in Basic Science Award at the Julie Ross Recognition Event, January 2024.
+
+- name: Kinzo Udon
+  group: gathering
+  image: images/events/kinzo.heic
+  description: Lab gathering at Kinzo Udon, October 2024
+
+- name: EaTO
+  group: gathering
+  image: images/events/eato.jpg
+  description: Lab gathering at EaTO, April 2025
+
+- name: Chloe presentation
+  group: recognition
+  image: images/events/PRESS.jpeg
+  description: Chloe presented her research poster at PRESS, April 2025
+  repo: 
