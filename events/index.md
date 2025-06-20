@@ -4,6 +4,6 @@ nav:
   order: 4
   tooltip: Lab happenings
 ---
-# <i class="fas fa-bullhorn"></i>   Lab Events
+# <i class="fa-solid fa-champagne-glasses"></i>   Lab Events
 
 {% include list.html component="card" data="events" style="large" %}
