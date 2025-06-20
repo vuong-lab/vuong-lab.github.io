@@ -11,7 +11,7 @@
 
 - name: Kinzo Udon
   group: gathering
-  image: images/events/kinzo.heic
+  image: images/events/kinzo.jpg
   description: Lab gathering at Kinzo Udon, October 2024
   
 - name: Julie Ross Recognition Event
